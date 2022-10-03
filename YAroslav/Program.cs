@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello,Yaroslav!!");
+
+
+Console.WriteLine("YAroslav Vladilalb bagadyun! ! ! ! ! ");
 
 
